@@ -1,0 +1,48 @@
+/*BOOTSTRAP**/
+
+/*---HEADER---*/
+header{
+    background-color: lightgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar{
+    background-color: lightgrey;
+    text-decoration: none;
+}
+.navbar li{
+    list-style: none;
+}
+.navbar li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}   
+.navbar li a:hover{
+    color: white;
+    font-size: 25px;
+}
+
+/*---MAIN---*/
+main{
+    background-color: white;
+}
+.img1{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+/*---FOOTER---*/
+footer{
+    background-color: lightgreen;
+}
+h2{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.row{
+    list-style: none;
+    background-color: grey;
+}
